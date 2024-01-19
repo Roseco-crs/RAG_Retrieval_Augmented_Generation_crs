@@ -1,0 +1,6 @@
+faiss-cpu
+langchain
+langchain-openai
+pandas
+matplotlib
+python-dotenv
