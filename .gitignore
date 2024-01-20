@@ -1,8 +1,12 @@
 
 # Large folders
 venv/**/
-data
+/data
 data/**/
 
 # API_KEY & Secret code
 .env
+
+# logs
+*.log
+*.zip
