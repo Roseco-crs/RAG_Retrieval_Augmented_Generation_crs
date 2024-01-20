@@ -1,6 +1,7 @@
 faiss-cpu
 langchain
 langchain-openai
+langchain-community
 pandas
 matplotlib
 python-dotenv
@@ -8,5 +9,6 @@ streamlit
 huggingface-hub
 pypdf2
 openai
+streamlit
 
 
