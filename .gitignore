@@ -1,5 +1,6 @@
 
 # Large folders
+/venv
 venv/**/
 /data
 data/**/
