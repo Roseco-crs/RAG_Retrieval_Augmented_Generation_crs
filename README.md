@@ -23,8 +23,10 @@ For this project:
  - users can uploads multiples PDFs from their choice.
  - users can ask questions regarding their data they uploaded
 
-# How to run this code?
-We can clone the repository by copying and pasting in your terminal: `https://github.com/Roseco-crs/RAG_Retrieval_Augmented_Generation_crs.git`
-
+# How to install and run this code?
+We can clone the repository by copying and pasting in your terminal: 
+- `git clone https://github.com/Roseco-crs/RAG_Retrieval_Augmented_Generation_crs.git`
 - `python main.py`
+
+
 
