@@ -1,7 +1,7 @@
 # RAG_Retrieval_Augmented_Generation
 
 
-Retrieval Augmented Generation 
+# Business Need  
 
 Large Language Models (LLMs) are trained on massive sets of data gleaned from public repositories like stackoverflow, quora, but they don't contain the companies-specific data that your employees or customers may be looking for. So, LLMs can struggle with tasks like answering specific company questions. However, in those circumstances, LLMs may provide hallucination (response with no source or out of date). To address this challenge, Retrieval Augmented will help LLMs to generate contextually relevant insights with updated source and accuracy.
 
